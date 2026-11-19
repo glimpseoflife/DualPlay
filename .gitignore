@@ -1,0 +1,9 @@
+# Sysinternals Handle - downloaded from Microsoft on first run, not redistributed
+tools/
+
+# Local settings
+*.ini
+
+# Windows clutter
+Thumbs.db
+desktop.ini
